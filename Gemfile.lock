@@ -145,7 +145,8 @@ GEM
     rainbow (3.0.0)
     rake (10.5.0)
     rchardet (1.8.0)
-    rexml (3.2.4)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     rgl (0.5.7)
       lazy_priority_queue (~> 0.1.0)
       stream (~> 0.5.3)
@@ -180,6 +181,7 @@ GEM
       faraday (> 0.8, < 2.0)
     stream (0.5.3)
       generator
+    strscan (3.1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
